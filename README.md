@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**copdev/copdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Glover,
+A goal-oriented and collaborative individual. Currently, a Software Engineer at [Bluelight Agency](http://bluelight.com.ng/). Highly skilled in solving problems with professional experience working with React and Reactnative.
+My goal is to use my knowledge and skills to make the world a better and safer place by leveraging tools made available through Technology.
 
-Here are some ideas to get you started:
+_currently learning TypeScript and Dart_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reach me at
+[Twitter](https://twitter.com/_copdev)
+
+[Instagram](https://www.instagram.com/_copdev/)
+
+[LinkedIn](https://www.linkedin.com/in/ola-glover-638755127/)
+
+
+### "We have to stop optimizing for programmers and start optimizing for users." *— Jeff Atwood
