@@ -1,10 +1,5 @@
-### Hi there 👋
 
-I'm Glover,
-A goal-oriented and collaborative individual. Currently, a Software Engineer at [Bluelight Agency](http://bluelight.com.ng/). Highly skilled in solving problems with professional experience working with React and Reactnative.
-My goal is to use my knowledge and skills to make the world a better and safer place by leveraging tools made available through Technology.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=copdev)
 
 ### Reach me at
 [Twitter](https://twitter.com/_copdev)
@@ -13,5 +8,15 @@ My goal is to use my knowledge and skills to make the world a better and safer p
 
 [LinkedIn](https://www.linkedin.com/in/ola-glover-638755127/)
 
+### Hi there 👋, my name is Glover
+#### Design and Development
 
-### "We have to stop optimizing for programmers and start optimizing for users." *— Jeff Atwood
+![Design and Development](https://pbs.twimg.com/profile_banners/761167935192850433/1606166110/1500x500)
+
+I'm a software developer based in Lagos, Nigeria. I enjoy learning languages and frameworks, currently working with startups to create‍ growth-driven‍ Products & Brands.
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=copdev)
+
+
+
+
