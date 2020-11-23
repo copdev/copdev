@@ -1,11 +1,13 @@
-
-### Hi there 👋, my name is Glover
-#### Design and Development
-
 ![Design and Development](https://github.com/copdev/copdev/blob/master/copdev2.png)
-
+### Hi there 👋, I'm Glover.
+#### Design and Development
 I'm a software developer based in Lagos, Nigeria. I enjoy learning languages and frameworks, currently working with startups to create‍ growth-driven‍ Products & Brands.
 
+## Skills and Experience
+
+- ⚛ React
+- 📱 React Native
+- 💻 HTML, CSS, JS
 
 - 🔭 I’m currently working on my portfolio website 
 - 🌱 I’m currently learning Dart and TypeScript 
