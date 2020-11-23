@@ -1,6 +1,5 @@
 ![Design and Development](https://github.com/copdev/copdev/blob/master/copdev2.png)
-### Hi there 👋, I'm Glover.
-#### Design and Development
+# Glover Olaoluwa.
 I'm a software developer based in Lagos, Nigeria. I enjoy learning languages and frameworks, currently working with startups to create‍ growth-driven‍ Products & Brands.
 
 ## Skills and Experience
