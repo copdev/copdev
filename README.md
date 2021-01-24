@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Glover Olaoluwa</h1>
 <h3 align="center">A passionate software developer based in Lagos, Nigeria. I enjoy learning languages and frameworks, currently working with startups to create‍ growth-driven‍ Products & Brands.</h3>
 
@@ -6,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript and Python**
 
-- 📝 I regularly write articles on [Hashnode](https://glover.hashnode.dev/)
+- 📝 I regularly write articles on [https://glover.hashnode.dev/](https://glover.hashnode.dev/)
 
 - 💬 Ask me about **React, React-Native, Javascript**
 
@@ -27,7 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gloverola&show_icons=true&locale=en" alt="gloverola" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gloverola&" alt="gloverola" /></p>
 
 
 
