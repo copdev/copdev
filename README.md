@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript and Python**
 
-- 📝 I regularly write articles on [https://glover.hashnode.dev/](https://glover.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode](https://glover.hashnode.dev/)
 
 - 💬 Ask me about **React, React-Native, Javascript**
 
